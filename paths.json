@@ -5,6 +5,6 @@
   ],
   "includes": [
     "/content/jck-xwalk-1",
-    "/content/dam/jck-xwalk-1"
+    "/content/dam/jck-xwalk-1/blogs/internal-blog"
   ]
 }
