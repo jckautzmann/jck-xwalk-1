@@ -2,5 +2,9 @@
   "mappings": [
     "/content/jck-xwalk-1/:/",
     "/content/jck-xwalk-1/configuration:/.helix/config.json"
+  ],
+  "includes": [
+    "/content/jck-xwalk-1",
+    "/content/dam/jck-xwalk-1"
   ]
 }
